@@ -14,7 +14,7 @@ const queryClient = new QueryClient();
 
 function App() {
   const [postId, setPostId] = React.useState(-1);
-
+  console.log('10');
   return (
     <QueryClientProvider client={queryClient}>
       <p>

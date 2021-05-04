@@ -20,7 +20,6 @@ function App() {
 
   useEffect(() => {
     test('wtf_master');
-    test('wtf3333');
   }, [])
 
   return (

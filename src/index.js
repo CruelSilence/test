@@ -19,7 +19,7 @@ function App() {
   console.log('10');
 
   useEffect(() => {
-    test('wtf_master');
+    test('wtf_master ololo');
   }, [])
 
   return (

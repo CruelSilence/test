@@ -19,7 +19,7 @@ function App() {
   console.log('10');
 
   useEffect(() => {
-    test('wtf');
+    test('wtf1');
   }, [])
 
   return (

@@ -19,11 +19,8 @@ function App() {
   console.log('10');
 
   useEffect(() => {
-<<<<<<< HEAD
     test('wtf_master');
-=======
     test('wtf3333');
->>>>>>> FEAT-1
   }, [])
 
   return (

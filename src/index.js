@@ -16,7 +16,7 @@ const queryClient = new QueryClient();
 
 function App() {
   const [postId, setPostId] = React.useState(-1);
-  console.log('2');
+  console.log('3000000');
 
   useEffect(() => {
     test('wtf_master ololo');
